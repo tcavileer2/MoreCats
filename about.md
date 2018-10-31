@@ -14,5 +14,4 @@ Reasons:
 
 This is great.
 
-[text](https://)
 ![cute kitten](https://www.pexels.com/photo/grey-and-white-short-fur-cat-104827/)
