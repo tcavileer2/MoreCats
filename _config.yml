@@ -5,6 +5,7 @@ email: your-email@domain.com
 description: A wonderful site
 twitter_username: Sunkist
 github_username: tcavileer2
+Awesome blog: _blog
 
 # Build settings
 markdown: kramdown
